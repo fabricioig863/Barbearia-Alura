@@ -11,7 +11,7 @@
 
 ## 🚀 Projeto
 
-Projeto desenvolvido no decorrer de 4 cursos ministrado pelo instrutor [Pedro Marins](https://www.linkedin.com/in/pedromarins/) da plataforma [Alura Crusos Online](https://cursos.alura.com.br/course/html5-css3-primeiros-passos), onde ao final do curso desenvolvemos um site de barbearia.
+Projeto desenvolvido no decorrer de 4 cursos ministrado pelo instrutor [Pedro Marins](https://www.linkedin.com/in/pedromarins/) da plataforma [Alura Cursos Online](https://cursos.alura.com.br/course/html5-css3-primeiros-passos), onde ao final do curso desenvolvemos um site de barbearia.
 Afim de colocar em prática conhecimentos de javascript adquiridos no curso da geek university pude aplicar animação ao scroll no projeto.
 
 ## 🎨 Layout
