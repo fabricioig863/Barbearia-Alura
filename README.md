@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-    <a href="#-projeto">Projeto</a>
-    <a href="#-layout">Layout</a>
-    <a href="#-tecnologias">Tecnologias</a>
-    <a href="#-aprendizados">Aprendizados</a>
+    <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-aprendizados">Aprendizados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <p>
 
 ## 🚀 Projeto
